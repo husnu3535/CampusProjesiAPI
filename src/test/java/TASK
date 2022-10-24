@@ -1,0 +1,25 @@
+            ---------------------------- USER STORYS -------------------------------
+
+1.	As an Admin User I should be able to Add-Edit-Delete Position Categories Under Human Resources Setup
+
+2.	As an Admin User I should be able to Add-Edit-Delete Attestations under Human Resources Setup
+
+3.	As an Admin User I should be able to Add-Edit-Delete Document Types under Parameters Setup
+
+4.	As an Admin User I should be able to Add-Edit-Delete Fields under Parameters Setup
+
+5.	As an Admin User I should be able to Add-Edit-Delete Positions under Human Resources Setup
+
+6.	As an Admin User I should be able to Add-Edit-Delete Subject Categories under Education Setup
+
+7.	As an Admin User I should be able to Add-Edit-Delete School Locations under School Setup
+
+8.	As an Admin User I should be able to Add-Edit-Delete Departments under School Setup
+
+9.	As an Admin User I should be able to Add-Edit-Delete Bank Accounts under Parameters Setup
+
+10.	As an Admin User I should be able to Add-Edit-Delete Grade Levels under Parameters Setup
+
+11.	As an Admin User I should be able to Add-Edit-Delete Discounts under Parameters Setup
+
+12.	As an Admin User I should be able to Add-Edit-Delete Nationalities under Parameters Setup
